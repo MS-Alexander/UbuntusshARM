@@ -62,7 +62,7 @@
               }
             },
             {
-              "name": "Web rule",
+              "name": "Web_rule",
               "properties": {
                 "description": "Allow web traffic over port 80.",
                 "protocol": "Tcp",
