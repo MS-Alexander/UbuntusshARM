@@ -206,7 +206,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/MS-Alexander/UbunutuPasswordWS/master/ConfigWS.sh"
+            "https://raw.githubusercontent.com/MS-Alexander/UbuntusshARM/master/ConfigWS.sh"
           ]
         },
          "protectedSettings": {
